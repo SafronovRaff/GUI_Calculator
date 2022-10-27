@@ -101,7 +101,7 @@ func main() {
 			divide,
 			multiply,
 			minus,
-			plus, //
+			//plus,
 		),
 		container.NewGridWithColumns(2,
 			container.NewGridWithRows(3,
